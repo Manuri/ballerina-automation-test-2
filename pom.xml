@@ -60,7 +60,7 @@
     </dependencies>
 
     <properties>
-        <test1.version>1.0.2</test1.version>
+        <test1.version>1.0.15</test1.version>
         <log4j.version>2.8.1</log4j.version>
     </properties>
 </project>
