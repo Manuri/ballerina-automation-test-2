@@ -26,9 +26,9 @@
     <packaging>jar</packaging>
 
     <scm>
-        <url>https://github.com/manuri/ballerina-automation-test-2.git</url>
-        <developerConnection>scm:git:https://github.com/manuri/ballerina-automation-test-2.git</developerConnection>
-        <connection>scm:git:https://github.com/manuri/ballerina-automation-test-2.git</connection>
+        <url>https://github.com/manuri/ballerina-automation-test-1.git</url>
+        <developerConnection>scm:git:https://github.com/manuri/ballerina-automation-test-1.git</developerConnection>
+        <connection>scm:git:https://github.com/manuri/ballerina-automation-test-1.git</connection>
         <tag>HEAD</tag>
     </scm>
 
